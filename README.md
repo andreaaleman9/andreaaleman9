@@ -1,7 +1,7 @@
 # ¡Hola! Soy Gabriela Andrea Estrada Alemán 👋
 
 ## 🚀 Sobre mí
-¡Bienvenido a mi rincón en GitHub! Soy un apasionado **Desarrollador Web** actualmente dando clases de programación en el Instituto Nacional de Antiguo Cuscatlán. Me encanta transformar ideas complejas en interfaces intuitivas y funcionales. Mi enfoque principal está en el desarrollo Full Stack, buscando siempre aprender nuevas herramientas y mejorar mis prácticas de código.
+¡Bienvenido a mi rincón en GitHub! Soy una apasionada **Desarrolladora Web** actualmente dando clases de programación en el Instituto Nacional de Antiguo Cuscatlán. Me encanta transformar ideas complejas en interfaces intuitivas y funcionales. Mi enfoque principal está en el desarrollo Full Stack, buscando siempre aprender nuevas herramientas y mejorar mis prácticas de código.
 
 ---
 
