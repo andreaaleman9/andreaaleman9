@@ -35,7 +35,7 @@
 ## 📬 Hablemos
 ¡Siempre estoy abierto a colaborar en proyectos interesantes o simplemente charlar sobre tecnología!
 * 📧 **Email:** [gabriela.andrea.estrada@clases.edu.sv](mailto:gabriela.andrea.estrada@clases.edu.sv)
-* 🌎 **Portafolio:** [repositorio]([https://tu-web.com](https://github.com/andreaaleman9/proyecto1))
+* 🌎 **Portafolio:** [repositorio](https://github.com/andreaaleman9/proyecto1)
 
 ---
 <p align="center">
